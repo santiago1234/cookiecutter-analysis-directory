@@ -1,0 +1,6 @@
+{
+    "keyword_description": "description",
+    "author": "Santiago G. Medina Muñoz",
+    "date": "{% now 'local', '%y-%m-%d' %}",
+    "goal": "What is my goal?"
+}
