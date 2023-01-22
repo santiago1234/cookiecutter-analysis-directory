@@ -1,8 +1,6 @@
----
-title: {{cookiecutter.keyword_description}}
-author: {{cookiecutter.author}}
-date: {% now 'local', '%y/%m/%d' %}
----
+# {{cookiecutter.keyword_description}}
+### {{cookiecutter.author}}
+### {% now 'local', '%y/%m/%d' %}
 
 ## Overview
 
